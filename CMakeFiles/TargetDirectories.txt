@@ -1,0 +1,3 @@
+/home/solai/office/ups/CMakeFiles/rebuild_cache.dir
+/home/solai/office/ups/CMakeFiles/edit_cache.dir
+/home/solai/office/ups/CMakeFiles/ups.dir
